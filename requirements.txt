@@ -1,0 +1,11 @@
+datasets==3.1.0
+fire==0.7.0
+peft==0.13.3.dev0
+safetensors==0.5.3
+torch==2.5.1+cu121
+transformers==4.46.1
+lm_eval
+jupyter
+ipykernel
+nbformat
+nbconvert
