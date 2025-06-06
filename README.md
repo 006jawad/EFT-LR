@@ -5,8 +5,8 @@ EFT-LR is a benchmarking tool for evaluating **learning rate (LR) policies** dur
 To use EFT-LR, clone the repository and install the required dependencies:  
 
 ```bash
-git clone https://github.com/006jawad/FineTuneLR
-cd FineTuneLR
+git clone https://github.com/006jawad/EFT-LR
+cd EFT-LR
 pip install -r requirements.txt
 ```
 
