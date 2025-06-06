@@ -1,8 +1,8 @@
-# FineTuneLR
-FineTuneLR is a benchmarking tool for evaluating **learning rate (LR) policies** during LLM fine-tuning. It helps analyze the impact of different LR policies on model performance, providing insights for optimization.  
+# EFT-LR
+EFT-LR is a benchmarking tool for evaluating **learning rate (LR) policies** during LLM fine-tuning. It helps analyze the impact of different LR policies on model performance, providing insights for optimization.  
 
 ## Installation  
-To use FineTuneLR, clone the repository and install the required dependencies:  
+To use EFT-LR, clone the repository and install the required dependencies:  
 
 ```bash
 git clone https://github.com/006jawad/FineTuneLR
